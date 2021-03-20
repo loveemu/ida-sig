@@ -14,6 +14,6 @@ sigmake -n"AGB Developer Toolkit: GCC Low-Level Runtime Library [libgcc.a]" libg
 
 sigmake -n"GAX Sound Engine 3" gax3.pat gax3.sig
 
-sigmake -n"MusyX Audio Tools by Factor 5" musyx.pat musyx.sig
+sigmake -n"MusyX Audio Tools for Game Boy Advance by Factor 5" musyx.pat musyx.sig
 
 for %%a in (*.sig) do zipsig "%%a"
