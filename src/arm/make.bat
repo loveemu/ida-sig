@@ -16,4 +16,6 @@ sigmake -n"GAX Sound Engine 3" gax3.pat gax3.sig
 
 sigmake -n"MusyX Audio Tools for Game Boy Advance by Factor 5" musyx.pat musyx.sig
 
+sigmake -n"Logik State Sound Driver 3 for Gameboy Advance (aka. GBAModPlay, LS_Play)" gbamodplay3.pat gbamodplay3.sig
+
 for %%a in (*.sig) do zipsig "%%a"
