@@ -12,6 +12,7 @@ sigmake -n"AGB Music Player 2000 (Later Version)" mks4agbLib.2.pat mks4agbLib.2.
 
 sigmake -n"AGB Developer Toolkit: GCC Low-Level Runtime Library [libgcc.a]" libgcc_agb.pat libgcc_agb.sig
 
+sigmake -n"GAX Sound Engine 2" gax2.pat gax2.sig
 sigmake -n"GAX Sound Engine 3" gax3.pat gax3.sig
 
 sigmake -n"MusyX Audio Tools for Game Boy Advance by Factor 5" musyx.pat musyx.sig
